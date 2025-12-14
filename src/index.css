@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+/* 1. Import Font */
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200..1000&display=swap');
+
+/* 2. Define Theme */
+@theme {
+  --font-mullish: "Mulish", sans-serif;
+
+  --color-deepBlue: #02042a;
+  --color-lightBlue: #2b84ea;
+  --color-lightBlue300: #4b94ed;
+  --color-lightBlue500: #0b72e7;
+  --color-greenLight: #61cea6;
+  --color-grayText: #818597;
+  --color-lightGray: #e2e2e2;
+  --color-grayBlue: #344a6c;
+  --color-deepBlueHead: #162f56;
+  --color-gray2: #525a76;
+}
+
+/* 3. Apply Font */
+:root {
+  font-family: "Mulish", sans-serif;
+}
+
+@keyframes scroll-y{
+  0%{
+    transform: translateY(0);
+  }
+  100%{
+    transform: translateY(-50%);
+  }
+}
+
+@layer utilities{
+  .animate-vertical-scroll{
+    animation: scroll-y 20s linear infinite;
+  }
+  .animate-vertical-scroll:hover{
+    /* animation-play-state: paused; */
+  }
+}
