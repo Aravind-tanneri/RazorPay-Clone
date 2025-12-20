@@ -1,16 +1,26 @@
-# React + Vite
+# Razorpay UI Clone 💸
+A pixel-perfect clone of the Razorpay payment gateway interface, designed to practice modern CSS frameworks and responsive design principles.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 About
+This project was built as part of the **Web Development Course** by **Love Babbar (CodeHelp)**. The goal was to replicate the complex layout and design system of Razorpay using utility-first CSS.
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
+* **HTML5** - Semantic structure
+* **Tailwind CSS** - Styling and responsive design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features
+* **Fully Responsive:** Looks good on mobile, tablet, and desktop.
+* **Tailwind Config:** Custom colors and fonts configured to match the official brand.
+* **Modern UI:** Replicates the Feature section, Payment grid, and Footer accurately.
 
-## React Compiler
+## 📸 Screen Recording
+https://github.com/user-attachments/assets/3c85be38-5ecc-4856-9322-68ebd7b6ca02
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 🎓 Learning Outcomes
+* Deepened understanding of Tailwind's utility classes.
+* learned how to manage complex layouts using Flexbox and Grid.
+* Improved ability to analyze and replicate professional UI designs.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+*Created with ❤️ by Aravind*
