@@ -1,12 +1,10 @@
-@import "tailwindcss";
-
 /* 1. Import Font */
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200..1000&display=swap');
+@import "tailwindcss";
 
 /* 2. Define Theme */
 @theme {
   --font-mullish: "Mulish", sans-serif;
-
   --color-deepBlue: #02042a;
   --color-lightBlue: #2b84ea;
   --color-lightBlue300: #4b94ed;
