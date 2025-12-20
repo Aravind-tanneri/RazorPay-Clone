@@ -15,6 +15,7 @@ This project was built as part of the **Web Development Course** by **Love Babba
 
 ## 📸 Screen Recording
 https://github.com/user-attachments/assets/3c85be38-5ecc-4856-9322-68ebd7b6ca02
+NETLIFY: deployed@:https://lnkd.in/gtuEtH7j
 
 
 ## 🎓 Learning Outcomes
